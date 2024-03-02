@@ -11,7 +11,6 @@ import {
     PopoverTrigger,
 } from "@/components/ui/popover"
 import { Button } from "@/components/ui/button";
-import { error } from "console";
 import { toast } from "sonner";
 
 interface BoardOptionsProps {
